@@ -1,0 +1,11 @@
+.jumbotron.text-center.updest{
+    background-color: black;
+    color: white;
+    padding: 100px 25px;
+}
+
+p {
+    font-size: 2rem;
+    text-align: center;
+    padding: 5rem;
+}

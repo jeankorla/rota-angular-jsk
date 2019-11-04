@@ -1,0 +1,1 @@
+export * from './quem-somos.component';
